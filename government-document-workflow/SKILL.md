@@ -1,6 +1,6 @@
 ---
 name: government-document-workflow
-description: Draft, review, route, and archive Chinese government and public-sector administrative documents. Use when Codex is asked to handle official documents such as notices, requests for instructions, reports, replies, letters, meeting minutes, announcements, public notices, internal memos, approvals, circulation forms, document workflow design, receive/send document handling, countersignature, leader sign-off, supervision reminders, archive metadata, or compliance checks against administrative document conventions.
+description: Draft, review, route, and archive Chinese government and public-sector administrative documents and institutional workflows. Use when Codex is asked to handle official documents such as notices, requests for instructions, reports, replies, letters, meeting minutes, announcements, public notices, internal memos, approvals, circulation forms, document workflow design, receive/send document handling, countersignature, leader sign-off, supervision reminders, archive metadata, compliance checks,党委/人大/政府/政协机关文稿, 三定方案, 机构编制, 会议流程议程, official reception, public-sector reception, or administrative workflow conventions.
 ---
 
 # Government Document Workflow
@@ -24,6 +24,7 @@ Use a conservative administrative-office style: accurate, concise, traceable, an
 - For workflow routing, approvals, supervision, or archive fields, read `references/process-patterns.md`.
 - For operational government work plans, especially social stability, neighbor-effect/NIMBY, major project, emergency, or cross-department plans, read `references/operational-plans.md`.
 - For printable PDF or document generation with official Chinese government formatting, read `references/pdf-formatting.md`.
+- For党委、人大、政府、政协机关职责边界, 三定方案, 机构编制, 会议议程/纪要, 公务接待, 政务接待, read `references/institutional-governance.md`.
 
 ## Output Patterns
 
@@ -72,3 +73,6 @@ For workflow design:
 - For formal issuance in mainland China, tell the user to verify against the issuing body's latest local implementation rules and templates because many organs maintain detailed style sheets in addition to national rules.
 - Do not stop at generic measures such as "strengthen coordination" or "increase publicity" when drafting a work plan. Assign each measure to a lead unit, support units, deliverable, timeline, reporting path, and closure standard.
 - When asked to generate a printable PDF, do not rely on free-flow paragraph layout if the user expects GB/T 9704-style output. Use fixed page geometry, official fonts, line grid, page numbers, and visual QA.
+- Do not create, rename, merge, abolish, or assign staffing to institutions unless the user provides the applicable机构编制 approval or 三定规定. Use "按程序报机构编制部门审核" when structure, posts, establishment, or leadership positions are affected.
+- Do not confuse statutory or political roles:党委统揽协调, 人大依法行使决定/监督等职权, 政府依法履行行政管理和执行职责, 政协履行政协商、民主监督、参政议政职能. Match commands, reports, proposals, and meeting decisions to the right body.
+- For reception plans, require official purpose, approval, contact person, itinerary, standards, budget source, discipline requirements, and reimbursement documents. Flag absent公函, over-standard arrangements, gifts, tourism, or unclear funding.

@@ -22,6 +22,8 @@ Use a conservative administrative-office style: accurate, concise, traceable, an
 - For format, language, and compliance review, read `references/review-checklist.md`.
 - For current format elements, fonts, page layout, document elements, and governing norms, read `references/format-and-rules.md`.
 - For workflow routing, approvals, supervision, or archive fields, read `references/process-patterns.md`.
+- For operational government work plans, especially social stability, neighbor-effect/NIMBY, major project, emergency, or cross-department plans, read `references/operational-plans.md`.
+- For printable PDF or document generation with official Chinese government formatting, read `references/pdf-formatting.md`.
 
 ## Output Patterns
 
@@ -68,3 +70,5 @@ For workflow design:
 - Avoid marketing tone, exaggeration, casual language, and unsupported evaluation.
 - When documents may contain secrets, personal information, law-enforcement details, personnel decisions, tenders, or disciplinary matters, recommend confidentiality classification and access control review.
 - For formal issuance in mainland China, tell the user to verify against the issuing body's latest local implementation rules and templates because many organs maintain detailed style sheets in addition to national rules.
+- Do not stop at generic measures such as "strengthen coordination" or "increase publicity" when drafting a work plan. Assign each measure to a lead unit, support units, deliverable, timeline, reporting path, and closure standard.
+- When asked to generate a printable PDF, do not rely on free-flow paragraph layout if the user expects GB/T 9704-style output. Use fixed page geometry, official fonts, line grid, page numbers, and visual QA.

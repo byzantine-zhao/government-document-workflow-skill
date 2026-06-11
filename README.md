@@ -10,6 +10,8 @@ A Codex skill for drafting, reviewing, routing, and archiving Chinese government
 - Review checklists for authority, purpose, structure, wording, and attachments
 - Incoming/outgoing document workflows
 - Countersignature, legal/compliance review, supervision, and archive metadata
+- Operational work plans with leadership groups, member units, lead/support departments, special working groups, ledgers, graded response, traffic support, funding support, social impact assessment, and post-evaluation
+- Printable PDF formatting guidance for GB/T 9704-style page geometry, official fonts, 22-line/28-character grids, and visual QA
 
 ## Current Rules Reference
 
@@ -44,6 +46,8 @@ government-document-workflow/
 └── references/
     ├── document-types.md
     ├── format-and-rules.md
+    ├── operational-plans.md
+    ├── pdf-formatting.md
     ├── process-patterns.md
     └── review-checklist.md
 ```

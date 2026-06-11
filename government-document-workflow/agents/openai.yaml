@@ -1,0 +1,4 @@
+interface:
+  display_name: "Government Document Workflow"
+  short_description: "Draft and review official document workflows"
+  default_prompt: "Use $government-document-workflow to draft, review, or route an administrative official document."

@@ -12,6 +12,7 @@ A Codex skill for drafting, reviewing, routing, and archiving Chinese government
 - Countersignature, legal/compliance review, supervision, and archive metadata
 - Operational work plans with leadership groups, member units, lead/support departments, special working groups, ledgers, graded response, traffic support, funding support, social impact assessment, and post-evaluation
 - Printable PDF formatting guidance for GB/T 9704-style page geometry, official fonts, 22-line/28-character grids, and visual QA
+- First-level heading punctuation guidance, including standard `一、总体要求` dunhao glyph handling, SimHei/黑体 selection, and public official PDF visual comparison
 - Institutional governance guidance for党委、人大、政府、政协 role boundaries, 三定方案, 机构编制, meeting agendas/minutes, and公务/政务接待 plans
 
 ## Current Rules Reference
